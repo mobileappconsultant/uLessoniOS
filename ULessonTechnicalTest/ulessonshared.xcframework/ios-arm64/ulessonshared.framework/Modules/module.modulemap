@@ -1,0 +1,8 @@
+framework module ulessonshared {
+    umbrella header "ulessonshared.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
